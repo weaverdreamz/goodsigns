@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+  <rect width="100%" height="100%" fill="#0b1220"/>
+  <path d="M40 120h720v60H40z" fill="#1f2937"/>
+  <text x="400" y="160" font-size="28" fill="#7c3aed" text-anchor="middle">Project 4</text>
+  <rect x="80" y="220" width="640" height="200" rx="12" fill="#071024"/>
+</svg>
